@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+}
+
+
+.pic {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 8%;
+    width: 150px;
+    height: auto;
+}
